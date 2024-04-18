@@ -1,0 +1,1090 @@
+TRACE::2024-03-17.00:24:54::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:54::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:54::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:54::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:54::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:54::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:54::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-03-17.00:24:55::SCWPlatform::Opened new HwDB with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:55::SCWWriter::formatted JSON is {
+	"platformName":	"baremetal_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"baremetal_wrapper",
+	"platHandOff":	"C:/hdl-projects/baremetal/baremetal_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/baremetal_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2024-03-17.00:24:55::SCWWriter::formatted JSON is {
+	"platformName":	"baremetal_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"baremetal_wrapper",
+	"platHandOff":	"C:/hdl-projects/baremetal/baremetal_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/baremetal_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"baremetal_wrapper",
+	"systems":	[{
+			"systemName":	"baremetal_wrapper",
+			"systemDesc":	"baremetal_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"baremetal_wrapper"
+		}]
+}
+TRACE::2024-03-17.00:24:55::SCWPlatform::Boot application domains not present, creating them
+TRACE::2024-03-17.00:24:55::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2024-03-17.00:24:55::SCWWriter::formatted JSON is {
+	"platformName":	"baremetal_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"baremetal_wrapper",
+	"platHandOff":	"C:/hdl-projects/baremetal/baremetal_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/baremetal_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"baremetal_wrapper",
+	"systems":	[{
+			"systemName":	"baremetal_wrapper",
+			"systemDesc":	"baremetal_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"baremetal_wrapper"
+		}]
+}
+TRACE::2024-03-17.00:24:55::SCWWriter::formatted JSON is {
+	"platformName":	"baremetal_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"baremetal_wrapper",
+	"platHandOff":	"C:/hdl-projects/baremetal/baremetal_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/baremetal_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"baremetal_wrapper",
+	"systems":	[{
+			"systemName":	"baremetal_wrapper",
+			"systemDesc":	"baremetal_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"baremetal_wrapper"
+		}]
+}
+TRACE::2024-03-17.00:24:55::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:55::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:55::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:55::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:55::SCWDomain::checking for install qemu data   : 
+TRACE::2024-03-17.00:24:55::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:55::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:55::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:55::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:55::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:55::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:55::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:55::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:55::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-03-17.00:24:55::SCWMssOS::No sw design opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:55::SCWMssOS::mss does not exists at C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:55::SCWMssOS::Creating sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:55::SCWMssOS::Adding the swdes entry, created swdb C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:55::SCWMssOS::updating the scw layer changes to swdes at   C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:55::SCWMssOS::Writing mss at C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:55::SCWMssOS::Completed writing the mss file at C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-03-17.00:24:55::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-03-17.00:24:55::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-03-17.00:24:55::SCWMssOS::Completed writing the mss file at C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-03-17.00:24:55::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2024-03-17.00:24:56::SCWMssOS::Saving the mss changes C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-03-17.00:24:56::SCWMssOS::Writing the mss file completed C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::Commit changes completed.
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWWriter::formatted JSON is {
+	"platformName":	"baremetal_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"baremetal_wrapper",
+	"platHandOff":	"C:/hdl-projects/baremetal/baremetal_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/baremetal_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"baremetal_wrapper",
+	"systems":	[{
+			"systemName":	"baremetal_wrapper",
+			"systemDesc":	"baremetal_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"baremetal_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"a7808ca7d73bfa2c889d7b63dcb06950",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-03-17.00:24:56::SCWPlatform::Started generating the artifacts platform baremetal_wrapper
+TRACE::2024-03-17.00:24:56::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-03-17.00:24:56::SCWPlatform::Started generating the artifacts for system configuration baremetal_wrapper
+LOG::2024-03-17.00:24:56::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-03-17.00:24:56::SCWSystem::Not a boot domain 
+LOG::2024-03-17.00:24:56::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-03-17.00:24:56::SCWDomain::Generating domain artifcats
+TRACE::2024-03-17.00:24:56::SCWMssOS::Generating standalone artifcats
+TRACE::2024-03-17.00:24:56::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::Completed writing the mss file at C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-03-17.00:24:56::SCWMssOS::Mss edits present, copying mssfile into export location C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-03-17.00:24:56::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-03-17.00:24:56::SCWDomain::Skipping the build for domain :  standalone_microblaze_0
+TRACE::2024-03-17.00:24:56::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-03-17.00:24:56::SCWMssOS::Copying to export directory.
+TRACE::2024-03-17.00:24:56::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-03-17.00:24:56::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-03-17.00:24:56::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-03-17.00:24:56::SCWSystem::Completed Processing the sysconfig baremetal_wrapper
+LOG::2024-03-17.00:24:56::SCWPlatform::Completed generating the artifacts for system configuration baremetal_wrapper
+TRACE::2024-03-17.00:24:56::SCWPlatform::Started preparing the platform 
+TRACE::2024-03-17.00:24:56::SCWSystem::Writing the bif file for system config baremetal_wrapper
+TRACE::2024-03-17.00:24:56::SCWSystem::dir created 
+TRACE::2024-03-17.00:24:56::SCWSystem::Writing the bif 
+TRACE::2024-03-17.00:24:56::SCWPlatform::Started writing the spfm file 
+TRACE::2024-03-17.00:24:56::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-03-17.00:24:56::SCWPlatform::Completed generating the platform
+TRACE::2024-03-17.00:24:56::SCWMssOS::Saving the mss changes C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-03-17.00:24:56::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-03-17.00:24:56::SCWMssOS::Commit changes completed.
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWWriter::formatted JSON is {
+	"platformName":	"baremetal_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"baremetal_wrapper",
+	"platHandOff":	"C:/hdl-projects/baremetal/baremetal_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/baremetal_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"baremetal_wrapper",
+	"systems":	[{
+			"systemName":	"baremetal_wrapper",
+			"systemDesc":	"baremetal_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"baremetal_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"a7808ca7d73bfa2c889d7b63dcb06950",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-03-17.00:24:56::SCWPlatform::updated the xpfm file.
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::Saving the mss changes C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-03-17.00:24:56::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-03-17.00:24:56::SCWMssOS::Commit changes completed.
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWWriter::formatted JSON is {
+	"platformName":	"baremetal_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"baremetal_wrapper",
+	"platHandOff":	"C:/hdl-projects/baremetal/baremetal_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/baremetal_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"baremetal_wrapper",
+	"systems":	[{
+			"systemName":	"baremetal_wrapper",
+			"systemDesc":	"baremetal_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"baremetal_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"a7808ca7d73bfa2c889d7b63dcb06950",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::Saving the mss changes C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-03-17.00:24:56::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-03-17.00:24:56::SCWMssOS::Commit changes completed.
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWWriter::formatted JSON is {
+	"platformName":	"baremetal_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"baremetal_wrapper",
+	"platHandOff":	"C:/hdl-projects/baremetal/baremetal_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/baremetal_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"baremetal_wrapper",
+	"systems":	[{
+			"systemName":	"baremetal_wrapper",
+			"systemDesc":	"baremetal_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"baremetal_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"a7808ca7d73bfa2c889d7b63dcb06950",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-03-17.00:24:56::SCWPlatform::Started generating the artifacts platform baremetal_wrapper
+TRACE::2024-03-17.00:24:56::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-03-17.00:24:56::SCWPlatform::Started generating the artifacts for system configuration baremetal_wrapper
+LOG::2024-03-17.00:24:56::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-03-17.00:24:56::SCWDomain::Generating domain artifcats
+TRACE::2024-03-17.00:24:56::SCWMssOS::Generating standalone artifcats
+TRACE::2024-03-17.00:24:56::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::Completed writing the mss file at C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-03-17.00:24:56::SCWMssOS::Mss edits present, copying mssfile into export location C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-03-17.00:24:56::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-03-17.00:24:56::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-03-17.00:24:56::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-03-17.00:24:56::SCWMssOS::Copying to export directory.
+TRACE::2024-03-17.00:24:56::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-03-17.00:24:56::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-03-17.00:24:56::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-03-17.00:24:56::SCWSystem::Completed Processing the sysconfig baremetal_wrapper
+LOG::2024-03-17.00:24:56::SCWPlatform::Completed generating the artifacts for system configuration baremetal_wrapper
+TRACE::2024-03-17.00:24:56::SCWPlatform::Started preparing the platform 
+TRACE::2024-03-17.00:24:56::SCWSystem::Writing the bif file for system config baremetal_wrapper
+TRACE::2024-03-17.00:24:56::SCWSystem::dir created 
+TRACE::2024-03-17.00:24:56::SCWSystem::Writing the bif 
+TRACE::2024-03-17.00:24:56::SCWPlatform::Started writing the spfm file 
+TRACE::2024-03-17.00:24:56::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-03-17.00:24:56::SCWPlatform::Completed generating the platform
+TRACE::2024-03-17.00:24:56::SCWMssOS::Saving the mss changes C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-03-17.00:24:56::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-03-17.00:24:56::SCWMssOS::Commit changes completed.
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:24:56::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:24:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:24:56::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:24:56::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:24:56::SCWWriter::formatted JSON is {
+	"platformName":	"baremetal_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"baremetal_wrapper",
+	"platHandOff":	"C:/hdl-projects/baremetal/baremetal_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/baremetal_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"baremetal_wrapper",
+	"systems":	[{
+			"systemName":	"baremetal_wrapper",
+			"systemDesc":	"baremetal_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"baremetal_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"a7808ca7d73bfa2c889d7b63dcb06950",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-03-17.00:24:56::SCWPlatform::updated the xpfm file.
+LOG::2024-03-17.00:25:55::SCWPlatform::Started generating the artifacts platform baremetal_wrapper
+TRACE::2024-03-17.00:25:55::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-03-17.00:25:55::SCWPlatform::Started generating the artifacts for system configuration baremetal_wrapper
+LOG::2024-03-17.00:25:55::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-03-17.00:25:55::SCWSystem::Not a boot domain 
+LOG::2024-03-17.00:25:55::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-03-17.00:25:55::SCWDomain::Generating domain artifcats
+TRACE::2024-03-17.00:25:55::SCWMssOS::Generating standalone artifcats
+TRACE::2024-03-17.00:25:55::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-03-17.00:25:55::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:55::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:55::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:55::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:25:55::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:55::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:25:55::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:25:55::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:25:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:25:55::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:25:55::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:25:55::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:25:55::SCWMssOS::Completed writing the mss file at C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-03-17.00:25:55::SCWMssOS::Mss edits present, copying mssfile into export location C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:25:55::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-03-17.00:25:55::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-03-17.00:25:55::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-03-17.00:25:55::SCWMssOS::doing bsp build ... 
+TRACE::2024-03-17.00:25:55::SCWMssOS::System Command Ran  C: & cd  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp & make 
+TRACE::2024-03-17.00:25:55::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-03-17.00:25:55::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_7/src"
+
+TRACE::2024-03-17.00:25:55::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-03-17.00:25:55::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-03-17.00:25:55::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:55::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_15/src"
+
+TRACE::2024-03-17.00:25:55::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-03-17.00:25:55::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-03-17.00:25:55::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:55::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-03-17.00:25:55::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-03-17.00:25:55::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-03-17.00:25:55::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:55::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_14/src"
+
+TRACE::2024-03-17.00:25:55::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-03-17.00:25:55::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-03-17.00:25:55::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:55::SCWMssOS::"Running Make include in microblaze_0/libsrc/PmodGYRO_v1_0/src"
+
+TRACE::2024-03-17.00:25:55::SCWMssOS::make -C microblaze_0/libsrc/PmodGYRO_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-03-17.00:25:55::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-03-17.00:25:55::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:55::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_7/src"
+
+TRACE::2024-03-17.00:25:55::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-03-17.00:25:55::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-03-17.00:25:55::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:56::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-03-17.00:25:56::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-03-17.00:25:56::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-03-17.00:25:56::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:56::SCWMssOS::"Running Make libs in microblaze_0/libsrc/PmodGYRO_v1_0/src"
+
+TRACE::2024-03-17.00:25:56::SCWMssOS::make -C microblaze_0/libsrc/PmodGYRO_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-03-17.00:25:56::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-03-17.00:25:56::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:56::SCWMssOS::"Compiling PmodGYRO"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -j 20 --no-print-directory par_libs
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_7/src"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_15/src"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-03-17.00:25:57::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-03-17.00:25:57::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-03-17.00:25:57::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-03-17.00:25:57::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-03-17.00:25:57::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2024-03-17.00:25:57::SCWMssOS::-Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_14/src"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-03-17.00:25:57::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-03-17.00:25:57::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"Running Make include in microblaze_0/libsrc/PmodGYRO_v1_0/src"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -C microblaze_0/libsrc/PmodGYRO_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-03-17.00:25:57::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-03-17.00:25:57::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_7/src"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-03-17.00:25:57::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2024-03-17.00:25:57::SCWMssOS::-Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-03-17.00:25:57::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2024-03-17.00:25:57::SCWMssOS::all -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_7/src"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-03-17.00:25:57::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-03-17.00:25:57::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_15/src"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_15/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-03-17.00:25:57::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-03-17.00:25:57::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-03-17.00:25:57::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2024-03-17.00:25:57::SCWMssOS::xtra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_14/src"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_14/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2024-03-17.00:25:57::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -W
+TRACE::2024-03-17.00:25:57::SCWMssOS::extra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_7/src"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-03-17.00:25:57::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2024-03-17.00:25:57::SCWMssOS::ll -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-03-17.00:25:57::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2024-03-17.00:25:57::SCWMssOS:: -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-03-17.00:25:57::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2024-03-17.00:25:58::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-03-17.00:25:58::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-03-17.00:25:58::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/xplatform_info.o microblaze_0/lib/xuartlite.o microblaze_0/lib/microblaze_
+TRACE::2024-03-17.00:25:58::SCWMssOS::disable_exceptions.o microblaze_0/lib/print.o microblaze_0/lib/_exit.o microblaze_0/lib/xil_testio.o microblaze_0/lib/microblaz
+TRACE::2024-03-17.00:25:58::SCWMssOS::e_disable_dcache.o microblaze_0/lib/microblaze_flush_dcache_range.o microblaze_0/lib/microblaze_flush_cache_ext.o microblaze_0/
+TRACE::2024-03-17.00:25:58::SCWMssOS::lib/xbram_sinit.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xil_cache.o micro
+TRACE::2024-03-17.00:25:58::SCWMssOS::blaze_0/lib/xil_util.o microblaze_0/lib/inbyte.o microblaze_0/lib/xintc_intr.o microblaze_0/lib/xuartlite_stats.o microblaze_0/
+TRACE::2024-03-17.00:25:58::SCWMssOS::lib/microblaze_exception_handler.o microblaze_0/lib/xbram_g.o microblaze_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_i
+TRACE::2024-03-17.00:25:58::SCWMssOS::nvalidate_dcache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib/xbram_selftest.o microblaze_0/lib/microbla
+TRACE::2024-03-17.00:25:58::SCWMssOS::ze_interrupt_handler.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/xgpio_g.o microblaze_0/lib/xil_mem.o micro
+TRACE::2024-03-17.00:25:58::SCWMssOS::blaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/xbram_intr.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/li
+TRACE::2024-03-17.00:25:58::SCWMssOS::b/xil_printf.o microblaze_0/lib/xintc_g.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/xintc_selftest.o microblaze_0/lib/xin
+TRACE::2024-03-17.00:25:58::SCWMssOS::tc_l.o microblaze_0/lib/outbyte.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/xgpio_intr.o microblaze_0/li
+TRACE::2024-03-17.00:25:58::SCWMssOS::b/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_cache_ext.o microblaze_0/lib/microblaze_sleep.o m
+TRACE::2024-03-17.00:25:58::SCWMssOS::icroblaze_0/lib/hw_exception_handler.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/lib/xgpio_sinit.o microblaze_0/lib/mi
+TRACE::2024-03-17.00:25:58::SCWMssOS::croblaze_update_dcache.o microblaze_0/lib/xil_testcache.o microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/microblaze_in
+TRACE::2024-03-17.00:25:58::SCWMssOS::terrupts_g.o microblaze_0/lib/xio.o microblaze_0/lib/microblaze_enable_dcache.o microblaze_0/lib/xbram.o microblaze_0/lib/micro
+TRACE::2024-03-17.00:25:58::SCWMssOS::blaze_invalidate_icache_range.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/lib/microblaze_invalidate_icache.o
+TRACE::2024-03-17.00:25:58::SCWMssOS:: microblaze_0/lib/errno.o microblaze_0/lib/xuartlite_l.o microblaze_0/lib/xintc_options.o microblaze_0/lib/microblaze_invalidat
+TRACE::2024-03-17.00:25:58::SCWMssOS::e_cache_ext_range.o microblaze_0/lib/xil_exception.o microblaze_0/lib/pvr.o microblaze_0/lib/xgpio.o microblaze_0/lib/xil_testm
+TRACE::2024-03-17.00:25:58::SCWMssOS::em.o microblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/microblaze_flush_dcache.o m
+TRACE::2024-03-17.00:25:58::SCWMssOS::icroblaze_0/lib/xil_clocking.o microblaze_0/lib/xil_assert.o microblaze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/x
+TRACE::2024-03-17.00:25:58::SCWMssOS::gpio_extra.o microblaze_0/lib/microblaze_enable_icache.o microblaze_0/lib/xintc.o microblaze_0/lib/xuartlite_sinit.o microblaze
+TRACE::2024-03-17.00:25:58::SCWMssOS::_0/lib/microblaze_init_icache_range.o microblaze_0/lib/fcntl.o microblaze_0/lib/xgpio_selftest.o
+
+TRACE::2024-03-17.00:25:58::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-03-17.00:25:58::SCWMssOS::Copying to export directory.
+TRACE::2024-03-17.00:25:58::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-03-17.00:25:58::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-03-17.00:25:58::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-03-17.00:25:58::SCWSystem::Completed Processing the sysconfig baremetal_wrapper
+LOG::2024-03-17.00:25:58::SCWPlatform::Completed generating the artifacts for system configuration baremetal_wrapper
+TRACE::2024-03-17.00:25:58::SCWPlatform::Started preparing the platform 
+TRACE::2024-03-17.00:25:58::SCWSystem::Writing the bif file for system config baremetal_wrapper
+TRACE::2024-03-17.00:25:58::SCWSystem::dir created 
+TRACE::2024-03-17.00:25:58::SCWSystem::Writing the bif 
+TRACE::2024-03-17.00:25:58::SCWPlatform::Started writing the spfm file 
+TRACE::2024-03-17.00:25:58::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-03-17.00:25:58::SCWPlatform::Completed generating the platform
+TRACE::2024-03-17.00:25:58::SCWMssOS::Saving the mss changes C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:25:58::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-03-17.00:25:58::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-03-17.00:25:58::SCWMssOS::Commit changes completed.
+TRACE::2024-03-17.00:25:58::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:25:58::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:25:58::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:25:58::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:25:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:25:58::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:25:58::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:25:58::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:25:58::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:25:58::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:25:58::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:25:58::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:25:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:25:58::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:25:58::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:25:58::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:25:58::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:25:58::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:25:58::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:25:58::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:25:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:25:58::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:25:58::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:25:58::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:25:58::SCWWriter::formatted JSON is {
+	"platformName":	"baremetal_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"baremetal_wrapper",
+	"platHandOff":	"C:/hdl-projects/baremetal/baremetal_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/baremetal_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"baremetal_wrapper",
+	"systems":	[{
+			"systemName":	"baremetal_wrapper",
+			"systemDesc":	"baremetal_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"baremetal_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.7",
+					"mssFile":	"",
+					"md5Digest":	"a7808ca7d73bfa2c889d7b63dcb06950",
+					"compatibleApp":	"empty_application",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-03-17.00:25:58::SCWPlatform::updated the xpfm file.
+TRACE::2024-03-17.00:25:58::SCWPlatform::Trying to open the hw design at C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform::DSA given C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform::DSA absoulate path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform::DSA directory C:/hdl-projects/gyro_test/baremetal_wrapper/hw
+TRACE::2024-03-17.00:25:58::SCWPlatform:: Platform Path C:/hdl-projects/gyro_test/baremetal_wrapper/hw/baremetal_wrapper.xsa
+TRACE::2024-03-17.00:25:58::SCWPlatform:: Unique name xilinx:arty-s7-50::0.0
+TRACE::2024-03-17.00:25:58::SCWPlatform::Trying to set the existing hwdb with name baremetal_wrapper_0
+TRACE::2024-03-17.00:25:58::SCWPlatform::Opened existing hwdb baremetal_wrapper_0
+TRACE::2024-03-17.00:25:58::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-03-17.00:25:58::SCWMssOS::Checking the sw design at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-03-17.00:25:58::SCWMssOS::DEBUG:  swdes dump  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-03-17.00:25:58::SCWMssOS::Sw design exists and opened at  C:/hdl-projects/gyro_test/baremetal_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
